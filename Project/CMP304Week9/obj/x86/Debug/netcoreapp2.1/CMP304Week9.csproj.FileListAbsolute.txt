@@ -1,0 +1,15 @@
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\x86\Debug\netcoreapp2.1\CMP304Week9.csprojAssemblyReference.cache
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\x86\Debug\netcoreapp2.1\CMP304Week9.csproj.CoreCompileInputs.cache
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\x86\Debug\netcoreapp2.1\CMP304Week9.AssemblyInfoInputs.cache
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\x86\Debug\netcoreapp2.1\CMP304Week9.AssemblyInfo.cs
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\DlibDotNetNative.dll
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\DlibDotNetNativeDnn.dll
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\CMP304Week9.deps.json
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\CMP304Week9.runtimeconfig.json
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\CMP304Week9.runtimeconfig.dev.json
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\CMP304Week9.dll
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\CMP304Week9.pdb
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\x86\Debug\netcoreapp2.1\CMP304Week9.dll
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\x86\Debug\netcoreapp2.1\CMP304Week9.pdb
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\input.jpg
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\x86\Debug\netcoreapp2.1\shape_predictor_68_face_landmarks.dat

@@ -1,0 +1,17 @@
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\CMP304Week9.deps.json
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\CMP304Week9.runtimeconfig.json
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\CMP304Week9.runtimeconfig.dev.json
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\CMP304Week9.dll
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.csprojAssemblyReference.cache
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.csproj.CoreCompileInputs.cache
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.AssemblyInfoInputs.cache
+M:\CMP304\Week9\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.AssemblyInfo.cs
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\DlibDotNetNative.dll
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\DlibDotNetNativeDnn.dll
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\bin\Debug\netcoreapp2.1\shape_predictor_68_face_landmarks.dat
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.csprojAssemblyReference.cache
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.csproj.CoreCompileInputs.cache
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.AssemblyInfoInputs.cache
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.AssemblyInfo.cs
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.dll
+D:\AidansStuff\UniversityStuff\Year3\Term2\Week10\CMP304Week9\CMP304Week9\obj\Debug\netcoreapp2.1\CMP304Week9.pdb

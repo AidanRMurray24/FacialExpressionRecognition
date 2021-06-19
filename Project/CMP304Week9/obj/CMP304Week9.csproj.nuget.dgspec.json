@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aidan\\Desktop\\CMP304 - AI\\CMP304Submission\\Project\\CMP304Week9\\CMP304Week9.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aidan\\Desktop\\CMP304 - AI\\CMP304Submission\\Project\\CMP304Week9\\CMP304Week9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aidan\\Desktop\\CMP304 - AI\\CMP304Submission\\Project\\CMP304Week9\\CMP304Week9.csproj",
+        "projectName": "CMP304Week9",
+        "projectPath": "C:\\Users\\Aidan\\Desktop\\CMP304 - AI\\CMP304Submission\\Project\\CMP304Week9\\CMP304Week9.csproj",
+        "packagesPath": "C:\\Users\\Aidan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aidan\\Desktop\\CMP304 - AI\\CMP304Submission\\Project\\CMP304Week9\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "DlibDotNet": {
+              "target": "Package",
+              "version": "[19.18.0.20200301, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
